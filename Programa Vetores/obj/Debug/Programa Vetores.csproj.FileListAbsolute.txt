@@ -1,0 +1,18 @@
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.exe.config
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.csprojResolveAssemblyReference.cache
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa_Vetores.Form1.resources
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa_Vetores.Properties.Resources.resources
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.csproj.GenerateResource.Cache
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.exe
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.pdb
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.exe
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.pdb
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.exe.config
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.exe
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.pdb
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.exe
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Debug\Programa Vetores.pdb
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa_Vetores.Form1.resources
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa_Vetores.Properties.Resources.resources
+C:\Users\WSJ\Pictures\2°BCC\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Debug\Programa Vetores.csproj.GenerateResource.Cache

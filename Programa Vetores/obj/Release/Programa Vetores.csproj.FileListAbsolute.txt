@@ -1,0 +1,8 @@
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Release\Programa Vetores.exe.config
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Release\Programa Vetores.exe
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\bin\Release\Programa Vetores.pdb
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Release\Programa_Vetores.Form1.resources
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Release\Programa_Vetores.Properties.Resources.resources
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Release\Programa Vetores.csproj.GenerateResource.Cache
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Release\Programa Vetores.exe
+C:\FEMA\Matematica II\Programa Vetores C#\Programa Vetores\Programa Vetores\obj\Release\Programa Vetores.pdb

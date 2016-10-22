@@ -1,0 +1,30 @@
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.exe.config
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.exe
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.pdb
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Form1.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Soma.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.exe
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.pdb
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Subtraçao.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Modulo.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Angulo.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Ortogonais.resources
+C:\Users\WSJ\Desktop\Brito\Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Unitariocs.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.exe.config
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.exe
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.pdb
+G:\ \Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.exe
+G:\ \Trabalho de Matematica\Trabalho de Matematica\bin\Debug\Trabalho de Matematica.pdb
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.csprojResolveAssemblyReference.cache
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Angulo.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Form1.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Modulo.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Ortogonais.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Properties.Resources.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Soma.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Subtraçao.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho_de_Matematica.Unitariocs.resources
+G:\ \Trabalho de Matematica\Trabalho de Matematica\obj\Debug\Trabalho de Matematica.csproj.GenerateResource.Cache
